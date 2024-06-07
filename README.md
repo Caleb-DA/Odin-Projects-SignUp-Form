@@ -1,2 +1,3 @@
 # Odin-Projects-SignUp-Form
-Odin Project - Full Stack JavaScript 
+Live Preview
+http://Caleb-DA.Github.io/Odin-Projetcs-SignUpForm/
